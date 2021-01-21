@@ -15,7 +15,7 @@ YELLOW='\033[1;33m'
 NC='\033[0m' # No Color
 
 #TCP port
-PORT=22011
+PORT=18801
 RPC=22002
 
 #Clear keyboard input buffer
