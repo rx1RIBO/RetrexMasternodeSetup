@@ -178,7 +178,7 @@ fi
 #Installing Daemon
 cd ~
 mkdir ~/RetrexMasternodeSetup/retrex
-wget https://github.com/vingg21/Retrex/releases/download/v1.0.1.0/retrex-1.0.1-ubuntu-compiled-16.04.tar.gz
+wget https://github.com/RXbenjoZork/Retrex/releases/download/v1.0.1.0/retrex-1.0.1-ubuntu-compiled-16.04.tar.gz
 tar -xzf retrex-1.0.1-ubuntu-compiled-16.04.tar.gz -C ~/RetrexMasternodeSetup/retrex
 rm -rf retrex-1.0.1-ubuntu-compiled-16.04.tar.gz
 
